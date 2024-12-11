@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Bebas-Regular';
+   font-display: swap;
+   src: url('Bebas-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Helvetica';
+   font-display: swap;
+   src: url('Helvetica/font.ttf');
+}
+@font-face {
+   font-family: 'QWERTYpe';
+   font-display: swap;
+   src: url('QWERTYpe/font.ttf');
+}
